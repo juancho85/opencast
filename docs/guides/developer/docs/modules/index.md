@@ -19,6 +19,8 @@ or subsystems of Opencast.
     - [Dropdowns](admin-ui/style/dropdowns.md)
     - [Alerts and Indicators](admin-ui/style/alerts-indicators.md)
     - [References](admin-ui/style/references.md)
+- Capture Agent
+  - [Communication Protocols](capture-agent/protocols.md)
 - Player
   - [Architecture](player/architecture.md)
   - [Core Reference](player/core.reference.md)

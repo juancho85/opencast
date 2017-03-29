@@ -49,6 +49,8 @@ pages:
         - Dropdowns: 'modules/admin-ui/style/dropdowns.md'
         - Alerts and Indicators: 'modules/admin-ui/style/alerts-indicators.md'
         - References: 'modules/admin-ui/style/references.md'
+   - Capture Agent:
+        - Communication Protocolls: 'modules/capture-agent/protocols.md'
    - Player:
       - Architecture: 'modules/player/architecture.md'
       - Core Reference: 'modules/player/core.reference.md'
